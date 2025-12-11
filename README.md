@@ -1,6 +1,6 @@
 # Modelo predictivo de afecciones coronarias (Trabajo de grado)
 
-Se desarrolló un modelo predictivo para la detección de síndrome coronario agudo (SCA) usando datos estructurados de la Clínica de Occidente (Cali, Colombia), con 859 pacientes y 24 variables clínicas y paraclínicas. El aporte central es doble: (i) un algoritmo que combina el Análisis de Componentes Principales (PCA) con el método de machine learning XGBoost para la detección temprano de SCA y (ii) la exposición rigurosa de los fundamentos matemáticos de ambos métodos y su aplicación al problema de clasificación.
+Se desarrolló un modelo predictivo para la detección de síndrome coronario agudo (SCA) usando datos estructurados de la Clínica de Occidente (Cali, Colombia), con 859 pacientes y 24 variables clínicas y paraclínicas. El aporte central es doble: (i) un algoritmo que combina el Análisis de Componentes Principales (PCA) con el método de machine learning XGBoost para la detección temprana de SCA y (ii) la exposición rigurosa de los fundamentos matemáticos de ambos métodos y su aplicación al problema de clasificación.
 
 **Autor:** Alberth Yesid Pinco Bravo — Programa de matemáticas, Universidad del Valle.   
 **Año:** 2025
