@@ -25,5 +25,5 @@ Se desarrolló un modelo predictivo para la detección de síndrome coronario ag
 ##  Descripción de archivos
 
 - `tesis_sca.ipynb`: Notebook de Python con todo el flujo de trabajo (preprocesamiento, análisis exploratorio, modelado y evaluación).  
-- `Documento_Tesis.pdf`: Versión en PDF del documento presentado como trabajo de grado. Incluye el desarrollo teórico de los diferentes métodos utilizados (PCA, árboles de decisión y XGBoost), la metodología, los resultados y las conclusiones.
+- `Trabajo_de_Grado.pdf`: Versión en PDF del documento presentado como trabajo de grado. Incluye el desarrollo teórico de los diferentes métodos utilizados (PCA, árboles de decisión y XGBoost), la metodología, los resultados y las conclusiones.
 
