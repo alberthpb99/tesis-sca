@@ -15,13 +15,6 @@ Se desarrolló un modelo predictivo para la detección de síndrome coronario ag
 
 ---
 
-## Tecnologías utilizadas
-
-- `Python 3`
-- `Google Colab` como entorno de desarrollo
-
----
-
 ##  Descripción de archivos
 
 - `tesis_sca.ipynb`: Notebook de Python con todo el flujo de trabajo (preprocesamiento, análisis exploratorio, modelado y evaluación).  
